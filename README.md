@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ZinovevAI
-- 👀 I’m interested in CI\CD 
+- 👀 I’m interested in:   Python
+                          CI\CD 
 - 🌱 I’m currently learning Python
-- 📫 How to reach me  TG: @ArtOW
+- 📫 How to reach me:     TG @ArtOW
 
 <!---
 ZinovevAI/ZinovevAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
