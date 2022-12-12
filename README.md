@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ZinovevAI
-- 👀 I’m interested in:   Python
-                          CI\CD 
+- 👀 I’m interested in:   Python and CI\CD 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me:     TG @ArtOW
 
